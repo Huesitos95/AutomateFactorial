@@ -1,0 +1,29 @@
+# Dependencias y módulos generados
+node_modules
+package-lock.json
+
+# Archivos de configuración de desarrollo local
+.env
+.env.local
+
+# Carpeta de resultados de las pruebas
+cypress/screenshots/
+cypress/videos/
+
+# Archivos y carpetas generados por Cypress
+cypress/fixtures/
+cypress/results/
+cypress/screenshots/
+cypress/videos/
+
+# Otros archivos y carpetas generados
+coverage/
+dist/
+
+# Archivos de IDE específicos
+.idea/
+.vscode/
+
+# Archivos de compilación y salida
+*.log
+*.log.*
